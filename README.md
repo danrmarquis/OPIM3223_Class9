@@ -23,4 +23,6 @@ Part 2 of our UI Elements, including animation!
 ### Adding a close button
 
 #### Resources
-1. 
+1. [Animation View](https://docs.unity3d.com/Manual/animeditor-UsingAnimationEditor.html)
+2. [Animator](https://docs.unity3d.com/ScriptReference/Animator.html)
+3. [Animator.SetBool](https://docs.unity3d.com/ScriptReference/Animator.SetBool.html)
